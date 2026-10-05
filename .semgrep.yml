@@ -1,0 +1,6 @@
+rules:
+  - id: test-rule
+    pattern: eval(...)
+    message: "Found eval usage"
+    languages: [python]
+    severity: ERROR
