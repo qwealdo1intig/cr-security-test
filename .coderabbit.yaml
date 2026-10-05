@@ -1,0 +1,5 @@
+language: en-US
+reviews:
+  profile: assertive
+  auto_review:
+    enabled: true
